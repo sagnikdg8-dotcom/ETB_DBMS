@@ -5,9 +5,9 @@ Project Submitted to:
 Prof. Ashok Harnal
 
 Project Submitted by:
-Debapriya Halder - 341008
-Pratyay Mukherjee - 341037
-Sagnik Das Gupta - 341047
+Debapriya Halder - 341008; 
+Pratyay Mukherjee - 341037; 
+Sagnik Das Gupta - 341047; 
 
 1. Introduction
 Quick-commerce platforms like Blinkit rely on highly optimized databases to support ultra-fast delivery (10–15 minutes). These systems must handle:
