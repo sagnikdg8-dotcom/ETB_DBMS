@@ -12,7 +12,8 @@ Sagnik Das Gupta - 341047;
 <img width="853" height="844" alt="image" src="https://github.com/user-attachments/assets/f855e4bc-f228-425c-b410-9bff6defc575" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+This repository contains the database schema and EER model created for BlinkIt (Dark Stores) as part of the DBMS assignment
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Introduction
 Quick-commerce platforms like Blinkit rely on highly optimized databases to support ultra-fast delivery (10–15 minutes). These systems must handle:
 Real-time product inventory
