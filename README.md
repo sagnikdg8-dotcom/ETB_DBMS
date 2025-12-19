@@ -4,10 +4,11 @@ Blinkit_Database
 Project Submitted to:
 Prof. Ashok Harnal
 
-Project Submitted by:
-Debapriya Halder - 341008; 
-Pratyay Mukherjee - 341037; 
-Sagnik Das Gupta - 341047; 
+This project includes:
+- Debapriya Halder - 341008
+- Pratyay Mukherjee - 341037
+- Sagnik Das Gupta - 341047
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="853" height="844" alt="image" src="https://github.com/user-attachments/assets/f855e4bc-f228-425c-b410-9bff6defc575" />
 
