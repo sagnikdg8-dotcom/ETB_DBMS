@@ -9,6 +9,10 @@ Debapriya Halder - 341008;
 Pratyay Mukherjee - 341037; 
 Sagnik Das Gupta - 341047; 
 
+<img width="853" height="844" alt="image" src="https://github.com/user-attachments/assets/f855e4bc-f228-425c-b410-9bff6defc575" />
+
+
+
 1. Introduction
 Quick-commerce platforms like Blinkit rely on highly optimized databases to support ultra-fast delivery (10–15 minutes). These systems must handle:
 Real-time product inventory
